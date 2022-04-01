@@ -1,0 +1,25 @@
+# folders
+
+## Cache
+*/.ipynb_checkpoints/*
+__pycache__
+
+## IDEs
+.idea/
+
+# Project
+data/*
+model/*
+reports/*
+
+# Venv
+dvc-venv
+
+
+# files
+
+## OS configs
+.DS_Store
+
+## Configs
+.env
