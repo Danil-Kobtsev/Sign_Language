@@ -1,4 +1,0 @@
-[core]
-    remote = local
-['remote "local"']
-    url = /kaggle/input/sign-language-mnist
